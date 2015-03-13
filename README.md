@@ -1,11 +1,8 @@
 Hooker: Automated Dynamic Analysis of Android Applications
 ==========================================================
 
-About Hooker
-============
-
-Functional Description
-----------------------
+Description
+===========
 
 Hooker is an opensource project for dynamic analyses of Android applications. This project provides various tools and applications that can be use to automaticaly intercept and modify any API calls made by a targeted application.
 
